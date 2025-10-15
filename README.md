@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @TekFed
-- 👀 I’m interested in Tech
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Web design and software development
-- 📫 How to reach me on Twitter @chima_ollins
+- Python Dev.
+- Flutter Dev.
+- DS/ML/AI
+- PostgreSQL
 
 <!---
 TekFed/TekFed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
