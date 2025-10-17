@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @TekFed
 - Python Dev.
 - Flutter Dev.
+- HTML/CSS
 - DS/ML/AI
 - PostgreSQL
 
