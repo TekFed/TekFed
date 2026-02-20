@@ -14,16 +14,15 @@
 
 I'm **Sochima Collins Madu** (known as **TekFed**), a passionate **Flutter Developer** and **AI Engineer**.  
 
-I build beautiful, high-performance cross-platform mobile apps and dive deep into **Machine Learning**, **Data Science**, and **Artificial Intelligence** with Python.  
+I build beautiful, high-performance cross-platform mobile apps and dive deep into **Machine Learning**, **Data Science**, and **Artificial Intelligence** with Python. I also build **AI Agents** with Google ADK.
 
 When I'm not coding, I'm either:
 - Experimenting with the latest AI models
-- Tracking my betting wins/losses (responsibly 😎)
-- Exploring how tech can solve real problems in Nigeria and beyond
+- Exploring how tech can solve real problems around the world
 
-- 🌱 **Currently learning**: Advanced Deep Learning, MLOps, Generative AI & production-ready ML systems
+- 🌱 **Currently learning**: Advanced Deep Learning, MLOps, Generative AI, production-ready ML systems and system design in general.
 - 💡 **Open to**: Collaborations on Flutter apps, AI-powered tools, or open-source projects
-- 📍 **Based in**: Port Harcourt, Rivers State, Nigeria
+- 📍 **Based in**: Enugu, Nigeria
 
 ---
 
@@ -42,16 +41,17 @@ When I'm not coding, I'm either:
 **AI / ML**  
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
+![Google ADK](https://img.shields.io/badge/Google%20ADK-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 ---
 
 ### 🌟 Featured Projects
 
-- **[Bet-Tracker](https://github.com/TekFed/Bet-Tracker)** — Minimal Python tool to track wins & losses on betting platforms 📈
-- **[ToDo-App](https://github.com/TekFed/ToDo-App)** — Clean & functional minimal ToDo application in C++
+- **[ToDo-App](https://github.com/TekFed/ToDo-App)** — Clean & functional minimal ToDo application in Flutter/Dart
 - **[My-Portfolio-Site](https://github.com/TekFed/My-Portfolio-Site)** — My personal portfolio website (HTML/CSS)
 - **[handson-mlp-pytorch](https://github.com/TekFed/handson-mlp-pytorch)** — Hands-on ML/DL notebooks (Scikit-Learn, PyTorch, Hugging Face)
 - **[Project-](https://github.com/TekFed/Project-)** — Various Python experiments & utilities
+- **[]
 
 (Checkout my pinned repos for more!)
 
