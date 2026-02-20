@@ -42,9 +42,6 @@ When I'm not coding, I'm either:
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
 ![Google ADK](https://img.shields.io/badge/Google%20ADK-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Google ADK](https://img.shields.io/badge/Google%20ADK-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
-![ADK](https://img.shields.io/badge/ADK-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Google Agent Development Kit](https://img.shields.io/badge/Google%20Agent%20Development%20Kit-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 ---
 
