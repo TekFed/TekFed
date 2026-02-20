@@ -59,8 +59,10 @@ When I'm not coding, I'm either:
 
 ### 📊 GitHub Stats
 
-![TekFed's GitHub stats](https://github-readme-stats.vercel.app/api?username=TekFed&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TekFed&layout=compact&theme=radical&hide_border=true)
+![TekFed's GitHub stats](https://github-readme-stats.vercel.app/api?username=TekFed&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TekFed&layout=compact&theme=radical&hide_border=true&langs_count=10&hide=jupyter%20notebook)
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TekFed&theme=radical&hide_border=true)
 
 ---
