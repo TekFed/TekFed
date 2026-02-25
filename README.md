@@ -49,7 +49,7 @@ When I'm not coding, I'm either:
 
 - **[ToDo-App](https://github.com/TekFed/ToDo-App)** — Clean & functional minimal ToDo application in Flutter/Dart
 - **[My-Portfolio-Site](https://github.com/TekFed/My-Portfolio-Site)** — My personal portfolio website (HTML/CSS)
-- **[Project-](https://github.com/TekFed/Project-)** — Various Python experiments & utilities
+- **[doc_reader](https://github.com/TekFed/doc_reader)** — A beautiful offline desktop app that turns your documents into spoken audio
 - **[dna_simulator](https://github.com/TekFed/dna_simulator)** - A fun educational Python desktop application that lets you "design" a person by entering DNA codons (3-base sequences) and wathc them turn into a unique cartoon avatar!
 - **[ultra_image_editor](https://github.com/TekFed/ultra_image_editor)** - A simple yet powerful desktop image editor built with pyhton, Tkinter, Pillow (PIL) and OpenCV
 
