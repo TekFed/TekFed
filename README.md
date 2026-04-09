@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/TekFed/TekFed/blob/main/assets/header.gif" width="100%" alt="TekFed Banner" />
+  <img src="https://github.com/TekFed/TekFed/blob/main/assets/tekfed-banner.gif" width="100%" alt="TekFed Banner" />
  
   <h1>Hi there, I'm Collins 👾</h1>
   <h3><strong>TekFed</strong> — Flutter Developer | AI Engineer | Cloud Engineer | Database Engineer</h3>
