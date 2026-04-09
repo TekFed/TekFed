@@ -5,7 +5,7 @@
   <h3><strong>TekFed</strong> — Flutter Developer | AI Engineer | Cloud Engineer | Database Engineer</h3>
   <img src="https://komarev.com/ghpvc/?username=TekFed&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
   <a href="https://github.com/TekFed">
-    <img src="https://img.shields.io/github/followers/TekFed?label=Follow&style=for-the-badge" alt="GitHub followers" />
+    <img src="https://img.shields.io/github/followers/TekFed?label=Followers&style=for-the-badge" alt="GitHub followers" />
   </a>
 </div>
 
