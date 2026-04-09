@@ -44,6 +44,7 @@ When I'm not coding, I'm either:
 ![Flask](https://img.shields.io/badge/flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
 **CLoud**
+
 ![Azure](https://img.shields.io/badge/azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 **AI / ML**  
