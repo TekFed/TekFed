@@ -76,10 +76,6 @@ When I'm not coding, I'm either:
   </a>
 </div>
 
-<div align="center">
-  <p>X WHATSAPP LINKEDIN</p>
-</div>
-
 ---
 
 *“Python isn’t magic — it’s 3 million strangers on GitHub who already wrote the hard parts.”*  
