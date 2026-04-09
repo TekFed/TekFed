@@ -71,9 +71,13 @@ When I'm not coding, I'm either:
   <a href="https://wa.me/2348100809125">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
-  <a href="https://github.com/TekFed">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://www.linkedin.com/in/sochima-collins-madu-93b316239">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+</div>
+
+<div align="center">
+  <p>X WHATSAPP LINKEDIN</p>
 </div>
 
 ---
