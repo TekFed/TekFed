@@ -12,7 +12,7 @@
 
 ### 👨‍💻 About Me
 
-I'm **Sochima Collins Madu** (known as **TekFed**), a passionate **Flutter Developer** and **AI Engineer**.  
+I'm **Sochima Collins Madu** (known as **TekFed**), a passionate **Flutter Developer**, **AI/Database/Cloud Engineer**.  
 
 I build beautiful, high-performance cross-platform mobile apps and dive deep into **Machine Learning**, **Data Science**, and **Artificial Intelligence** with Python. I also build **AI Agents** with Google ADK.
 
