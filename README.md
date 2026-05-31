@@ -58,6 +58,7 @@ When I'm not coding, I'm either:
 
 - **[Psuedo_Google_form](https://github.com/TekFed/pseudo_google_form)** — A clean, minimal, open-source clone/starter of Google Forms built with FastAPI (backend) + SurveyJS (frontend).
 - **[Sudoku-Solver](https://github.com/TekFed/sudoku_solver)** — A simple sudoku solver with a beautiful tkinter GUI
+- **[Word Guess Game](https://github.com/TekFed/guess-the-word-game)** - A modern, feature-rich Wordle-style word guessing game built with Python and Tkinter
 - **[doc_reader](https://github.com/TekFed/doc_reader)** — A beautiful offline desktop app that turns your documents into spoken audio
 - **[dna_simulator](https://github.com/TekFed/dna_simulator)** - A fun educational Python desktop application that lets you "design" a person by entering DNA codons (3-base sequences) and watch them turn into a unique cartoon avatar!
 - **[ultra_image_editor](https://github.com/TekFed/ultra_image_editor)** - A simple yet powerful desktop image editor built with Python, Tkinter, Pillow (PIL) and OpenCV
