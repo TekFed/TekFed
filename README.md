@@ -10,7 +10,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there;I'm+Collins;Building+the+future+one+commit+at+a+time;Always+learning+•+Always+shipping&center=true&width=520&height=50&color=00FF9F&font=Consolas&vCenter=true&duration=1500)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there...;I'm+Collins...;Building+the+future+one+commit+at+a+time...;Always+learning+•+Always+shipping&center=true&width=520&height=50&color=00FF9F&font=Consolas&vCenter=true)
 
   <h3>Flutter Developer | AI Engineer | Cloud Engineer | Database Engineer</h3>
   <img src="https://komarev.com/ghpvc/?username=TekFed&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
