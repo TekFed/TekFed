@@ -1,4 +1,4 @@
-<div align="center">
+
                               ████████╗███████╗██╗  ██╗███████╗███████╗██████╗ 
                               ╚══██╔══╝██╔════╝██║ ██╔╝██╔════╝██╔════╝██╔══██╗
                                  ██║   █████╗  █████╔╝ █████╗  █████╗  ██║  ██║
@@ -8,7 +8,8 @@
 
 ---
 
-  <h1>Hi there, I'm Collins </h1>
+<div align="center">
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?        lines=TekFed;Building+the+future+one+commit+at+a+time;Tech+%7C+Open+Source+%7C+Innovation;Always+learning+•+Always+shipping&center=true&width=520&height=50&color=00FF9F&font=Consolas)](https://git.io/typing-  svg)
   <h3><strong>TekFed</strong> — Flutter Developer | AI Engineer | Cloud Engineer | Database Engineer</h3>
   <img src="https://komarev.com/ghpvc/?username=TekFed&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
   <a href="https://github.com/TekFed">
